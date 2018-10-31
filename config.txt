@@ -1,6 +1,6 @@
 token=NDk0NTk5NDcwNzQzNTUyMDAw.Do177A.NKBZgTMViciWVznqPmL_MsE7qEE
-owner=485579083649122304
-prefix=3
-game=Type 3Play | 3Help
+owner=257804689268146177
+prefix=F-
+game='.Music Fortnite.'
 stayinchannel=true
 songinstatus=true
