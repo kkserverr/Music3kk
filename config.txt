@@ -1,4 +1,4 @@
-token=NDk0NTk5NDcwNzQzNTUyMDAw.Do177A.NKBZgTMViciWVznqPmL_MsE7qEE
+token=NTA3MzE3ODQ3MzU4NDM5NDI1.Dru9LQ.6IbmMTVGwV6rwuzdzE-T6v9yVww
 owner=257804689268146177
 prefix=F-
 game='.Music Fortnite.'
